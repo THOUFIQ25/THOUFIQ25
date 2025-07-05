@@ -40,13 +40,6 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 
 ---
 
-## 📊 GitHub Stats
-
-![Thoufiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=THOUFIQ25&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THOUFIQ25&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 🎓 Certifications
 
