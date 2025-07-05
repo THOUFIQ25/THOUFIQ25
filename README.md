@@ -2,7 +2,7 @@
 
 I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## 🔭 About Me
 
@@ -11,7 +11,7 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 - 🎓 B.Tech CSE (Cyber Security)
 - 📫 How to reach me: [mdumerthoufiq.1593790@gmail.com](mailto:mdumerthoufiq.1593790@gmail.com)
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## 🌐 Connect with me
 
@@ -19,7 +19,7 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DIENOHAX)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DIENOSPYDER)
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 ![Nmap](https://img.shields.io/badge/Nmap-0087C3?logo=nmap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## 🎓 Certifications
 
@@ -46,14 +46,14 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 - **SOC Analyst**
 - **Ethical Hacking & Cyber Security Workshop** – NICC
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## 👥 Community Groups
 
 - [LinkedIn Group](https://www.linkedin.com/groups/14523939) – Join my LinkedIn community for cybersecurity discussions, insights, and networking.
 - [Telegram Group](https://t.me/DIENOHAX) – Join our Telegram group for daily cybersecurity learning, tools, and CTF discussions.
 
----
+<hr style="height:2px;border-width:0;color:gray;background:linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)">
 
 ## ⚡ Fun Fact
 
