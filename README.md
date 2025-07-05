@@ -8,7 +8,7 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 
 - 👯 I’m looking to collaborate on **Cybersecurity Projects and CTF Challenges**
 - 💬 Ask me about **Ethical Hacking, Linux, Cryptography, Penetration Testing**
-- 🎓 B.Tech CSE (Cyber Security) 
+- 🎓 B.Tech CSE (Cyber Security)
 - 📫 How to reach me: [mdumerthoufiq.1593790@gmail.com](mailto:mdumerthoufiq.1593790@gmail.com)
 
 ---
@@ -18,8 +18,6 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mdumerthoufiq25)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/DIENOHAX)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DIENOSPYDER)
-
-
 
 ---
 
@@ -40,7 +38,6 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 
 ---
 
-
 ## 🎓 Certifications
 
 - **Cyber Security Analyst Intern** – YHills & E-Cell IIT Hyderabad
@@ -51,10 +48,13 @@ I'm **Thoufiq**, a passionate Cybersecurity Engineer.
 
 ---
 
-## 📝 Group links
- - [LinkedIn Group](https://www.linkedin.com/groups/14523939) – Join my LinkedIn community for cybersecurity discussions, insights, and networking.
+## 👥 Community Groups
+
+- [LinkedIn Group](https://www.linkedin.com/groups/14523939) – Join my LinkedIn community for cybersecurity discussions, insights, and networking.
 - [Telegram Group](https://t.me/DIENOHAX) – Join our Telegram group for daily cybersecurity learning, tools, and CTF discussions.
 
+---
 
+## ⚡ Fun Fact
 
-
+😄 I love automating boring tasks and learning new exploit development techniques.
